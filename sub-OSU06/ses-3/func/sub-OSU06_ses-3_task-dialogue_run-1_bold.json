@@ -32,4 +32,29 @@
   "SeriesNumber": 7,
   "AcquisitionTime": "13:30:16.382500",
   "AcquisitionNumber": 1,
-  "Ima
+  "ImageComments": "Unaliased_MB6_PE3",
+  "SliceThickness": 2,
+  "SpacingBetweenSlices": 2,
+  "SAR": 0.0881008,
+  "EchoTime": 0.03,
+  "RepetitionTime": 1,
+  "FlipAngle": 60,
+  "PartialFourier": 0.75,
+  "BaseResolution": 96,
+  "ShimSetting": [
+    -450,
+    -5318,
+    -610,
+    243,
+    -75,
+    -110,
+    3,
+    -29
+  ],
+  "TxRefAmp": 220.748,
+  "PhaseResolution": 1,
+  "PhaseOversampling": 0.06,
+  "ReceiveCoilName": "HeadNeck_64",
+  "ReceiveCoilActiveElements": "HC1-7;NC1,2",
+  "PulseSequenceDetails": ""
+}
