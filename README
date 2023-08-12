@@ -1,0 +1,23 @@
+An fMRI dataset cortical representations of languages during natural dialogue
+
+This dataset corresponds to the publication: 
+Masahiro Yamashita, Rieko Kubo & Shinji Nishimoto 
+Cortical representations of languages during natural dialogue
+bioRxiv xxxx (2023) doi:xxxxxxxxxx
+
+# Overview
+In this study, fMRI data was recorded while participants had dialogue tasks involving chatting about specific topics, such as self-introduction and favorite classes.
+Each participant was scanned for about 27 runs over the course of three to four sessions. 
+We constructed voxel-wise modeling, voxel-based encoding models predict BOLD responses in each voxel evoked by features of interest.  To extract contextualized linguistic embeddings for the utterances in the dialogues, we used a pre-trained conversational large language model, GPT-Neox.  We also included additional low-level features (Part-of-speech, morpheme count, and syllable count) in the encoding model estimation and then discarded them for model testing.
+
+# Dataset
+## MRI files
+The present dataset contains fMRI data from eight subjects. 
+Each scanning session consisted of functional (EPI) and anatomical (T1) data. 
+The functional EPI images covered the entire brain (TR, 1000 ms; TE, 30 ms; flip angle, 60°; voxel size, 2 × 2 × 2 mm), T1-weighted anatomical reference image for each subject (voxel size, 1.0 × 1.0 × 1.0 mm). 
+
+## Features
+- GPT-Neox 
+- Part-of-speech
+- Morpheme count
+- Syllable count 
