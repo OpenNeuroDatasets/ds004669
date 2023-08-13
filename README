@@ -1,11 +1,4 @@
 # Natural Dialogue fMRI Dataset
-This dataset corresponds to the publication: 
-
-Yamashita, Kubo, and Nishimoto. Cortical representations of languages during natural dialogue.
-bioRxiv xxxx (2023) doi:xxxxxxxxxx
-
-
-## Overview
 fMRI data was recorded while participants had dialogue tasks involving chatting about specific topics, such as self-introduction and favorite classes. Each participant was scanned for about 27 runs over the course of three to four sessions. 
 
 ## Dataset
@@ -13,7 +6,7 @@ fMRI data was recorded while participants had dialogue tasks involving chatting 
 The present dataset contains fMRI data from eight subjects. 
 
 ### 1. BIDS MRI data
-	Raw MRI data in BIDS.
+Raw MRI data in BIDS.
 
 ### 2. Derivatives
 1. proprocessed data: preprocessed fMRI data, features used for voxel-wise modeling, GPT embeddings, morpheme and syllable rates.
