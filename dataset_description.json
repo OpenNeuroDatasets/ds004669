@@ -1,6 +1,6 @@
 {
-    "Name": "Cortical representations of languages during natural dialogue fMRI Dataset",
-    "License": "",
+    "Name": "Natural Dialogue fMRI Dataset",
+    "License": "CC0",
     "Authors": [
         "Masahiro Yamashita",
         "Rieko Kubo",
@@ -8,7 +8,9 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": ["ERATO JPMJER1801" ],
+    "Funding": [
+        "ERATO JPMJER1801"
+    ],
     "ReferencesAndLinks": [
         "Yamashita, Kubo, and Nishimoto (2023). Cortical representations of languages during natural dialogue. bioRxiv"
     ],
