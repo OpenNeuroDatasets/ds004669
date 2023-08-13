@@ -1,14 +1,7 @@
 # Natural Dialogue fMRI Dataset
 fMRI data was recorded while participants had dialogue tasks involving chatting about specific topics, such as self-introduction and favorite classes. Each participant was scanned for about 27 runs over the course of three to four sessions. 
 
-## Dataset
-
-The present dataset contains fMRI data from eight subjects. 
-
-### 1. BIDS MRI data
-Raw MRI data in BIDS.
-
-### 2. Derivatives
+# Derivatives
 1. proprocessed data: preprocessed fMRI data, features used for voxel-wise modeling, GPT embeddings, morpheme and syllable rates.
 2. fsROI: FreeSurfer regions of interest
 3. pycortex_db: Cortical map used by PyCortex
