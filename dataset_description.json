@@ -14,7 +14,6 @@
         "MIRAI JPMJMI19D1"
     ],
     "ReferencesAndLinks": [
-        "Yamashita, Kubo, and Nishimoto (2023). Cortical representations of languages during natural dialogue. bioRxiv",
         "https://github.com/yamashita-lang/dialogue"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004669.v1.0.0",
