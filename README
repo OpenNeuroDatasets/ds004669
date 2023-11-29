@@ -5,4 +5,4 @@ fMRI data was recorded while participants had dialogue tasks involving chatting 
 1. proprocessed data: preprocessed fMRI data, features used for voxel-wise modeling, GPT embeddings, morpheme and syllable rates.
 2. fsROI: FreeSurfer regions of interest
 3. pycortex_db: Cortical map used by PyCortex
-4. results: sample results
+4. results: sample results for sub-OSU08 and PCA
