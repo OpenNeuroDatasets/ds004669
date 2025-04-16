@@ -16,7 +16,7 @@
     "ReferencesAndLinks": [
         "https://github.com/yamashita-lang/dialogue"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004669.v2.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004669.v2.0.1",
     "BIDSVersion": "1.4.0",
     "EthicsApprovals": [
         "The Ethics and Safety Committee of the National Institute of Information and Communications Technology, Osaka, Japan, approved the experimental protocol, and all participants provided written informed consent."
