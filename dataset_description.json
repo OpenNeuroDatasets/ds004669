@@ -16,8 +16,8 @@
         "JSPS JP23H05493 and JP24H00619"
     ],
     "ReferencesAndLinks": [
-        "https://github.com/yamashita-lang/dialogue",
-        "https://doi.org/10.1038/s41562-025-02231-4"
+        "https://doi.org/10.1038/s41562-025-02231-4",
+        "https://github.com/yamashita-lang/dialogue"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004669.v2.0.1",
     "BIDSVersion": "1.4.0",
