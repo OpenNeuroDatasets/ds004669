@@ -14,7 +14,8 @@
         "MIRAI JPMJMI19D1"
     ],
     "ReferencesAndLinks": [
-        "https://github.com/yamashita-lang/dialogue"
+        "https://github.com/yamashita-lang/dialogue",
+        "https://doi.org/10.1038/s41562-025-02231-4"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004669.v2.0.1",
     "BIDSVersion": "1.4.0",
