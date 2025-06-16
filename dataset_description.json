@@ -11,7 +11,9 @@
     "Funding": [
         "ERATO JPMJER1801",
         "CREST JPMJCR18A5",
-        "MIRAI JPMJMI19D1"
+        "MIRAI JPMJMI19D1",
+        "AIP JPMJCR24U2",
+        "JSPS JP23H05493 and JP24H00619"
     ],
     "ReferencesAndLinks": [
         "https://github.com/yamashita-lang/dialogue",
